@@ -1,5 +1,5 @@
 var algebra = require('algebra'),
-    should  = require('should')
+    should  = require('algebra')
 
 var C = algebra.Complex
 
